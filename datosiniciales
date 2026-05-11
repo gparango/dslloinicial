@@ -1,0 +1,6 @@
+  {
+    "nombre": "dim_calendario",
+    "target": "brz_calendario", 
+    "tipo": "dimension",
+    "id_incremental": "n/a"
+  }
